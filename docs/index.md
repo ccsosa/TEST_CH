@@ -5,10 +5,8 @@ This GitHub website compresseses interactive metabolic sunburst for ten Cancer-h
 Please click on the following links to open the interactive sunbursts
 
 
-```markdown
 ## **system, subsystem and sub-subsystems for _A. thaliana_ and _H. sapiens_ respectively**
 [Link](https://ccsosa.github.io/TEST_CH/GENERAL-AT.html). A_Aa
 [Link](https://ccsosa.github.io/TEST_CH/GENERAL-HS.html). ASdsad
 
 ## **system, subsystem and sub-subsystems for _A. thaliana_ cancer hallmarks
-```
