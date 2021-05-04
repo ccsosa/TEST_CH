@@ -1,11 +1,12 @@
-## Welcome to cancer hallmarks article supplementary information
+ Welcome to cancer hallmarks article supplementary information website
 
-This GitHub website compresseses interactive metabolic sunburst for ten Cancer-hallmarks and two species _A. thaliana_ and _H. sapiens_
+This GitHub website compresseses interactive metabolic sunbursts
+for ten Cancer-hallmarks and two species _A. thaliana_ and _H. sapiens_
 
 Please click on the following links to open the interactive sunbursts
 
 
-## **system, subsystem and sub-subsystems
+## **system, subsystem and sub-subsystems per specie
 [Link](https://ccsosa.github.io/TEST_CH/GENERAL-AT.html). _A. thaliana_
 
 [Link](https://ccsosa.github.io/TEST_CH/GENERAL-HS.html). _H. sapiens_
