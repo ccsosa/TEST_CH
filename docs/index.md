@@ -4,7 +4,7 @@ This GitHub website compresseses interactive metabolic sunbursts
 for ten Cancer-hallmarks and two species _A. thaliana_ and _H. sapiens_
 
 
-![](newplot.png)
+![alt text here](newplot.png)
 Please click on the following links to open the interactive sunbursts Each graphic
 
 
