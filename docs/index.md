@@ -3,7 +3,9 @@
 This GitHub website compresseses interactive metabolic sunbursts
 for ten Cancer-hallmarks and two species _A. thaliana_ and _H. sapiens_
 
-Please click on the following links to open the interactive sunbursts
+
+![image](https://github.com/ccsosa/TEST_CH/blob/main/docs/newplot.png)
+Please click on the following links to open the interactive sunbursts Each graphic
 
 
 ## **system, subsystem and sub-subsystems per specie
@@ -25,7 +27,7 @@ Please click on the following links to open the interactive sunbursts
 [Link](https://ccsosa.github.io/TEST_CH/SPS-AT.html). SPS
 [Link](https://ccsosa.github.io/TEST_CH/TPI-AT.html). TPI
 
-## **system, subsystem and sub-subsystems for _h. sapiens_ cancer hallmarks
+## **system, subsystem and sub-subsystems for _H. sapiens_ cancer hallmarks
 
 [Link](https://ccsosa.github.io/TEST_CH/AID-HS.html). AID
 [Link](https://ccsosa.github.io/TEST_CH/AIM-HS.html). AIM
