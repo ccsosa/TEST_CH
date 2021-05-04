@@ -1,4 +1,4 @@
- Welcome to cancer hallmarks article supplementary information website
+Welcome to cancer hallmarks article supplementary information website
 
 This GitHub website compresseses interactive metabolic sunbursts
 for ten Cancer-hallmarks and two species _A. thaliana_ and _H. sapiens_
@@ -11,13 +11,13 @@ starting from the center of the figure. At click on the element the number
 of genes in a category will be displayed.
 
 
-## **system, subsystem and sub-subsystems per specie
+# **System, subsystem and sub-subsystems per specie
 [Link](https://ccsosa.github.io/TEST_CH/GENERAL-AT.html). _A. thaliana_
 
 [Link](https://ccsosa.github.io/TEST_CH/GENERAL-HS.html). _H. sapiens_
 
 
-## **system, subsystem and sub-subsystems for _A. thaliana_ cancer hallmarks
+## **System, subsystem and sub-subsystems for _A. thaliana_ cancer hallmarks
 
 [Link](https://ccsosa.github.io/TEST_CH/AID-AT.html). AID
 [Link](https://ccsosa.github.io/TEST_CH/AIM-AT.html). AIM
@@ -30,7 +30,7 @@ of genes in a category will be displayed.
 [Link](https://ccsosa.github.io/TEST_CH/SPS-AT.html). SPS
 [Link](https://ccsosa.github.io/TEST_CH/TPI-AT.html). TPI
 
-## **system, subsystem and sub-subsystems for _H. sapiens_ cancer hallmarks
+## **System, subsystem and sub-subsystems for _H. sapiens_ cancer hallmarks
 
 [Link](https://ccsosa.github.io/TEST_CH/AID-HS.html). AID
 [Link](https://ccsosa.github.io/TEST_CH/AIM-HS.html). AIM
